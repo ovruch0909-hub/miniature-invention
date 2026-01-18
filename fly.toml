@@ -1,0 +1,7 @@
+app = "miniature-invention"
+
+[build]
+  dockerfile = "Dockerfile"
+
+[env]
+  PYTHONUNBUFFERED = "1"
