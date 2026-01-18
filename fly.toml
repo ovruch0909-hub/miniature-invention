@@ -1,4 +1,4 @@
-app = "miniature-invention"
+app = "app-misty-haze-5731"
 
 [build]
   dockerfile = "Dockerfile"
