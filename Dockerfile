@@ -5,4 +5,4 @@ COPY . /app
 
 RUN pip install --no-cache-dir -r requirements.txt
 
-CMD ["sh", "start.sh"]
+CMD ["sh", "chmod +x start.sh","start.sh"]
